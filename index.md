@@ -32,13 +32,13 @@ show_tile: false
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Technical Portfolio</h3>
+					<h3>GIS and Technology</h3>
 				</header>
 				<p>
-					A selection of GIS and Coding projects done both as part of coursework or otherwise. More examples are available in the <a href="https://github.com/A-Hayes">main repository here.</a>
+					A selection of GIS and Coding projects done both as part of coursework or otherwise. More examples are available in <a href="https://github.com/A-Hayes">the main repository here.</a>
 				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Tech & GIS</a></li>
+					<li><a href="GISTech.html" class="button">Explore</a></li>
 				</ul>
 			</div>
 		</div>
@@ -50,22 +50,22 @@ show_tile: false
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Arts Portfolio</h3>
+					<h3>Design and Arts</h3>
 				</header>
 				<p>
-					Visual art samples for drawing and photography, and discussions on experience in other mediums 
+					Visual art samples for drawing and photography, and discussions on experience in other mediums.
 				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Arts</a></li>
+					<li><a href="DesignArts.html" class="button">Explore</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
-	<section>
+	<!-- <section   Use as templates for any new sections later
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
-	</section>
+	</section> -->
 </section>
 
 <!-- Three -->
