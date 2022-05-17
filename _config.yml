@@ -2,7 +2,7 @@
 title: A. Hayes Portfolio
 email: asarhayes@gmail.com
 description: A showcase of technical & artistic work by Asa Hayes 
-baseurl: "/landing" # the subpath of your site, e.g. /blog
+baseurl: "/home" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: A. Hayes
 #street_address: 
@@ -40,3 +40,4 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
+- landing.md #may add in at later date if suitable
