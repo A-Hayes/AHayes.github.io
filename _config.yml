@@ -2,7 +2,7 @@
 title: A. Hayes Portfolio
 email: asarhayes@gmail.com
 description: A showcase of technical & artistic work by Asa Hayes 
-baseurl: "/home" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: A. Hayes
 #street_address: 
@@ -10,7 +10,7 @@ author: A. Hayes
 #state: 
 #zip_code: 
 #country: 
-phone: Available on Request
+#phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -24,8 +24,8 @@ socials:
   GitHub: https://github.com/a-hayes
   #GitLab:
   #Instagram:
-  LinkedIn: https://www.linkedin.com/in/asa-hayes/
-  #Twitter: 
+  LinkedIn: https://www.linkedin.com/in/ [UPDATE]
+  #Twitter: https://twitter.com/andrewbanchich
   #Facebook:
   #Slack:
 
@@ -40,4 +40,3 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
-- landing.md #may add in at later date if suitable
