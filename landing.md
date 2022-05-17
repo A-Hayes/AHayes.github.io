@@ -59,11 +59,11 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<section>
+<!-- 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
-	</section>
+	</section> -->
 </section>
 
 <!-- Three -->
