@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: Home
+title: Works - Asa Hayes
 landing-title: 'Portfolio: Asa Hayes'
 description: 'GIS, Tech, Visual/Musical Arts, Usability, Intersection'
 image: null
@@ -53,7 +53,7 @@ show_tile: false
 					<h3>Design and Arts</h3>
 				</header>
 				<p>
-					Visual art samples for drawing and photography, and discussions on experience in other mediums.
+					Visual art samples for design, drawing, and photography; discussions on experience in other mediums.
 				</p>
 				<ul class="actions">
 					<li><a href="DesignArts.html" class="button">Explore</a></li>
@@ -77,9 +77,6 @@ show_tile: false
 		<p>
 			While taking a semester off to align himself with admission cycles, Asa has been working on enhancing readiness for admittance into the Master of Science in Visualization program at Texas A&M University. This has largely been focused on the development of more directly tangible applied concepts in art and design via independant study. He intends to use his time in the program both to enrich the Dept. of Visualization as possible during its transition into the new College of Arts & Sciences, and to explore the concept of 'usability': achieving a balance of intuitive interaction and comprehensive functionality in interfaces (digital and not). More specific interest falls on the examination of failures in User Experience design to understand how and why elements/techniques <i>do not</i> work to complement those that do.
 		</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
 	</div>
 </section>
 
