@@ -10,23 +10,23 @@ nav-menu: true
 
 <section class="spotlights">
 
-<section id="git">
-  <a href="generic.html" class="image">
-    <img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
-  </a>
-  <div class="content">
-    <div class="inner">
-    <header class="major">
-    <h3>Github</h3>
-  </header>
-  <p>
-    My Github page contains repositories containing my work for most of my courses, which are open to view and run if possible. These serve serve to show examples of direct coding in several languages, the execution of GIS workflows in multiple industry softwares, and combinations between the two  as applicable. Results & reports are available to supplement or replace the code/work in cases where running it would present issues (such as software licensing or system limitations). 
-  </p>
-  <ul class="actions">
-    <li><a href="https://github.com/A-Hayes?tab=repositories" class="button">Github</a></li>
-  </ul>
-  </div>
-</section>
+  <section id="git">
+    <a href="generic.html" class="image">
+      <img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+    </a>
+    <div class="content">
+      <div class="inner">
+      <header class="major">
+        <h3>Github</h3>
+      </header>
+      <p>
+      My Github page contains repositories containing my work for most of my courses, which are open to view and run if possible. These serve serve to show examples of direct coding in several languages, the execution of GIS workflows in multiple industry softwares, and combinations between the two  as applicable. Results & reports are available to supplement or replace the code/work in cases where running it would present issues (such as software licensing or system limitations). 
+      </p>
+      <ul class="actions">
+        <li><a href="https://github.com/A-Hayes?tab=repositories" class="button">Github</a></li>
+      </ul>
+    </div>
+  </section>
 
 </section>
 
@@ -47,24 +47,24 @@ nav-menu: true
 
 <section class="spotlights">
 
-<section id="bridge">
-  <a href="generic.html" class="image">
-    <img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
-  </a>
-  <div class="content">
-  <header class="major">
-    <h3>Aerial Drone Scans to Traversable Landscapes in Unity3D</h3>
-  </header>
-  <p>
-    My most visible project was done as part of coursework for my GNSS & GPS course. My group was tasked with examining if the accuracy of an aerial drone scan was fit to purpose for the surveying needs of the TX Dept. of Transportation. Part of this examination involved making the scanned area available to see from ground level to verify terrain details, and the decided-upon choice was the creation of a small Unity prototype to allow for exploration of a 3D model of the terrain of our scanned test area in first-person view. Pictured is an image of this demo, sans textures as we were unable to overlay the imagery over the terrain model due to software licensing fees. 
-    
-    The demo and more details on the project are available at its Github repository below. 
-  </p>
-  <ul class="actions">
-    <li><a href="https://github.com/A-Hayes/DroneScan-3DTerrain-Unity-Demo" class="button">Terrain Explorer</a></li>
-  </ul>
-  </div>
-</section>
+  <section id="bridge">
+    <a href="generic.html" class="image">
+      <img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+    </a>
+    <div class="content">
+      <header class="major">
+        <h3>Aerial Drone Scans to Traversable Landscapes in Unity3D</h3>
+      </header>
+      <p>
+        My most visible project was done as part of coursework for my GNSS & GPS course. My group was tasked with examining if the accuracy of an aerial drone scan was fit to purpose for the surveying needs of the TX Dept. of Transportation. Part of this examination involved making the scanned area available to see from ground level to verify terrain details, and the decided-upon choice was the creation of a small Unity prototype to allow for exploration of a 3D model of the terrain of our scanned test area in first-person view. Pictured is an image of this demo, sans textures as we were unable to overlay the imagery over the terrain model due to software licensing fees. 
+        
+        The demo and more details on the project are available at its Github repository below. 
+      </p>
+    <ul class="actions">
+      <li><a href="https://github.com/A-Hayes/DroneScan-3DTerrain-Unity-Demo" class="button">Terrain Explorer</a></li>
+    </ul>
+    </div>
+  </section>
 
 </section>
 
