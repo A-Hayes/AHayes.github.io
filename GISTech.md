@@ -11,11 +11,12 @@ nav-menu: true
 <section class="spotlights">
 
 <section id="git">
-  <div class="content">
   <a href="generic.html" class="image">
     <img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
   </a>
-  <header class="major">
+  <div class="content">
+    <div class="inner">
+    <header class="major">
     <h3>Github</h3>
   </header>
   <p>
@@ -26,6 +27,9 @@ nav-menu: true
   </ul>
   </div>
 </section>
+
+</section>
+
 
 <section id="geohub">
   <div class="inner">
@@ -41,11 +45,13 @@ nav-menu: true
   </div>
 </section>
 
+<section class="spotlights">
+
 <section id="bridge">
-  <div class="content">
   <a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+    <img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
   </a>
+  <div class="content">
   <header class="major">
     <h3>Aerial Drone Scans to Traversable Landscapes in Unity3D</h3>
   </header>
