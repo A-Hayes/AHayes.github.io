@@ -28,8 +28,6 @@ nav-menu: true
     </div>
   </section>
 
-</section>
-
 
 <section id="geohub">
   <div class="inner">
@@ -44,8 +42,6 @@ nav-menu: true
   </p>
   </div>
 </section>
-
-<section class="spotlights">
 
   <section id="bridge">
     <a href="generic.html" class="image">
