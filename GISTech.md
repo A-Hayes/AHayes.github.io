@@ -31,18 +31,18 @@ nav-menu: true
   
   
     <section id="geohub">
-      <div class="content">
-        <!--<div class="inner"> Find way to center text without pic, maybe rem. inner?-->
+      <div class="content" text-align="left">
+        <div class="inner"> 
         <header class="major">
           <h3>Africa Geohub</h3>
         </header>
         <p>
-          The main project of my internship with the National Geospatial Intelligence Agency was the creation of an Africa GeoHUB: a platform built upon the ArcGIS Enterprise web portal framework made to congregate geo-intelligence products focused on the African continent. As the then-current method for analysts to find and store products was inconsistent and distributed across many small, minimally-connected data stores, I was tasked with assisting in coding and organizing a centralized platform for all this data to come together with the goal of achieving high functionality for GIS analysts as well as intuitive navigation and indexing for non-GIS-oriented partners & customers. 
+          The main project of my internship with the National Geospatial Intelligence Agency was the creation of an Africa GeoHub: a platform built upon the ArcGIS Enterprise web portal framework made to congregate geo-intelligence products focused on the African continent. As the then-current method for analysts to find and store products was inconsistent and distributed across many small, minimally-connected data stores, I was tasked with assisting in coding and organizing a centralized platform for all this data to come together with the goal of achieving high functionality for GIS analysts as well as intuitive navigation and indexing for non-GIS-oriented partners & customers. 
         </p>
         <p>
           While the Africa GeoHub was the result of a semester-long internship, no part of it is able to be displayed here due to it being hosted on a secure govt. system located at the offices I worked in. References for supervisors from the internship can be made available upon request.
         </p>
-        <!--</div>-->
+        </div>
       </div>
     </section>
     
