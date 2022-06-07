@@ -31,7 +31,7 @@ nav-menu: true
   
   
     <section id="geohub">
-      <div class="content" text-align="left">
+      <div class="content">
         <div class="inner"> 
         <header class="major">
           <h3>Africa Geohub</h3>
@@ -44,9 +44,15 @@ nav-menu: true
         </p>
         </div>
       </div>
+      <a href="generic.html" class="image">
+        <img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+      </a>
     </section>
     
     <section id="bridge">
+      <a href="generic.html" class="image">
+        <img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+      </a>
       <div class="content">
         <div class="inner">
         <header class="major">
@@ -60,9 +66,6 @@ nav-menu: true
         </ul>
         </div>
       </div>
-      <a href="generic.html" class="image">
-        <img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
-      </a>
     </section>
   
   </section>
