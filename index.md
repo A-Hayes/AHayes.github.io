@@ -27,7 +27,7 @@ show_tile: false
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/GISCode.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -43,9 +43,10 @@ show_tile: false
 			</div>
 		</div>
 	</section>
+	
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/FallLeaves.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -75,7 +76,7 @@ show_tile: false
 			<h2>Future Interests</h2>
 		</header>
 		<p>
-			While taking a semester off to align himself with admission cycles, Asa has been working on enhancing readiness for admittance into the Master of Science in Visualization program at Texas A&M University. This has largely been focused on the development of more directly tangible applied concepts in art and design via independant study. He intends to use his time in the program both to enrich the Dept. of Visualization as possible during its transition into the new College of Arts & Sciences, and to explore the concept of 'usability': achieving a balance of intuitive interaction and comprehensive functionality in interfaces (digital and not). More specific interest falls on the examination of failures in User Experience design to understand how and why elements/techniques <i>do not</i> work to complement those that do.
+			While taking a semester off to align himself with admission cycles, Asa has been working on enhancing readiness for admittance into the Master of Science in Visualization program at Texas A&M University. This has largely been focused on the development of more directly tangible applied concepts in art and design via independent study. He intends to use his time in the program both to enrich the Dept. of Visualization as possible during its transition into the new College of Arts & Sciences, and to explore the concept of 'usability': achieving a balance of intuitive interaction and comprehensive functionality in interfaces (digital and not). More specific interest falls on the examination of failures in User Experience design to understand how and why elements/techniques <i>do not</i> work to complement those that do.
 		</p>
 	</div>
 </section>
