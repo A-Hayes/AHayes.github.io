@@ -2,7 +2,7 @@
 layout: post
 title: Design and Arts
 description: Visual art samples for drawing and photography, and discussions on experience in other mediums.
-image: assets/images/Branches.jpg
+image: assets/images/<!--Branches.jpg-->pic08.jpg
 nav-menu: true
 ---
 
@@ -11,7 +11,7 @@ nav-menu: true
   <section id="items" class="spotlights">
   
     <section id="map">
-        <img src="{% link assets/images/DesertPopMap.png %}" alt="" data-position="top center" />
+        <img src="{% link assets/images/<!--DesertPopMap.png-->pic08.jpg %}" alt="" data-position="top center" />
       <div class="content">
         <div class="inner">
         <header class="major">
@@ -33,7 +33,7 @@ nav-menu: true
     </section>
     
     <section id="photo">
-        <img src="{% link assets/images/BricksPhoto.jpg %}" alt="" data-position="top center" />
+        <img src="{% link assets/images/<!--BricksPhoto.jpg-->pic08.jpg %}" alt="" data-position="top center" />
       <div class="content">
         <div class="inner">
         <header class="major">
@@ -52,7 +52,7 @@ nav-menu: true
     </section>
     
     <section id="draw">
-        <img src="{% link assets/images/BricsFinalB.jpg %}" alt="" data-position="top center" />
+        <img src="{% link assets/images/<!--BricsFinalB.jpg-->pic08.jpg %}" alt="" data-position="top center" />
       <div class="content">
         <div class="inner">
         <header class="major">

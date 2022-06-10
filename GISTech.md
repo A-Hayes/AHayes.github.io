@@ -2,7 +2,7 @@
 layout: post
 title: GIS and Technology
 description: A selection of GIS and Coding projects done both as part of coursework or otherwise.
-image: assets/images/GISTech.png
+image: assets/images/<!--GISTech.png-->pic08.jpg
 nav-menu: true
 ---
 
@@ -12,7 +12,7 @@ nav-menu: true
   
     <section id="git">
       <a href="generic.html" class="image">
-        <img src="{% link assets/images/Git.jpg %}" alt="" data-position="top center" />
+        <img src="{% link assets/images/<!--Git.jpg-->pic08.jpg %}" alt="" data-position="top center" />
       </a>
       <div class="content">
         <div class="inner">
@@ -32,7 +32,7 @@ nav-menu: true
   
     <section id="geohub">
       <a href="generic.html" class="image">
-        <img src="{% link assets/images/ESRIHillshadeAfrica.png %}" alt="" data-position="center center" />
+        <img src="{% link assets/images/<!--ESRIHillshadeAfrica.png-->pic08.jpg %}" alt="" data-position="center center" />
       </a>
       <div class="content">
         <div class="inner"> 
@@ -51,7 +51,7 @@ nav-menu: true
     
     <section id="bridge">
       <a href="generic.html" class="image">
-        <img src="{% link assets/images/bridge.png %}" alt="" data-position="center center" />
+        <img src="{% link assets/images/<!--bridge.png-->pic08.jpg %}" alt="" data-position="center center" />
       </a>
       <div class="content">
         <div class="inner">
