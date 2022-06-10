@@ -49,14 +49,11 @@ nav-menu: true
           <p>
             Besides the direct lead-in from aerial photography and related techniques, regular digital photography has also been a minor interest of mine stretching back many years. After acquiring a more consistently usable camera several months ago, I've been dedicating time between other lessons to get more of an understanding of composition and image adjustment. Some recent examples are below, as well as elsewhere on the site. 
           </p>
-          
+          <p float="left">
+            <img align="top" src="{% link assets/images/night.jpg %}" alt="" data-position="top center" width="480" height="240" /> <img align="top" src="{% link assets/images/FallLeaves.jpg %}" alt="" data-position="top center" width="480" height="240" /> <img align="top" src="{% link assets/images/Mushroom.jpg %}" alt="" data-position="top center" width="480" height="240" />
+          </p>
         </div>
       </div>
-      <p float="left">
-            <img align="top" src="{% link assets/images/night.jpg %}" alt="" data-position="top center" width="480" height="240" />
-            <img align="top" src="{% link assets/images/FallLeaves.jpg %}" alt="" data-position="top center" width="480" height="240" />
-            <img align="top" src="{% link assets/images/Mushroom.jpg %}" alt="" data-position="top center" width="480" height="240" />
-          </p>
     </section>
     
     <section id="draw">
@@ -72,15 +69,11 @@ nav-menu: true
         <p>
           Azimuth and hillshade calculations translate to the shaping and intensity of shadows and highlights. The approaches of visual analysis and visual art are very similar, simply with one being descriptive and the other being prescriptive. By understanding the mechanics of how existing things look, one is more able to determine how something is ought to look during creation. Despite my very basic art supplies, unsteady hands, and limited scanning equipment, I believe these studies are able to demonstrate the crossover in my understanding from analysis to implementation. 
         </p>
-        
+        <p float="left">
+          <img align="top" src="{% link assets/images/BrickBlocking.jpg %}" alt="" data-position="top center" width="480" height="240" /> <img align="top" src="{% link assets/images/BrickShading.jpg %}" alt="" data-position="top center" width="480" height="240" /> <img align="top" src="{% link assets/images/Persim.jpg %}" alt="" data-position="top center" width="480" height="240" /> <img align="top" src="{% link assets/images/PersimNotes.jpg %}" alt="" data-position="top center" width="480" height="240" />
+        </p>
         </div>
       </div>
-      <p float="left">
-          <img align="top" src="{% link assets/images/BrickBlocking.jpg %}" alt="" data-position="top center" width="480" height="240" />
-          <img align="top" src="{% link assets/images/BrickShading.jpg %}" alt="" data-position="top center" width="480" height="240" />
-          <img align="top" src="{% link assets/images/Persim.jpg %}" alt="" data-position="top center" width="480" height="240" />
-          <img align="top" src="{% link assets/images/PersimNotes.jpg %}" alt="" data-position="top center" width="480" height="240" />
-        </p>
     </section>
   
   </section>
