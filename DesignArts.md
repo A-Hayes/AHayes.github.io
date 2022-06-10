@@ -18,7 +18,7 @@ nav-menu: true
   <section id="items" class="spotlights">
   
     <section id="map">
-      <img src="{% link assets/images/DesertPopMap.png %}" alt="" data-position="top center" width="860" height="380" />
+      <img src="{% link assets/images/DesertPopMap.png %}" alt="" data-position="top center" width="910" height="430" />
       <div class="content">
         <div class="inner">
           <header class="major">
@@ -27,7 +27,7 @@ nav-menu: true
           <p>
             An often-overlooked part of GIS is the visual aspect. It is not sufficient to just overlay some data points onto a map and let the reader sort it out; care must be taken in proper visualization of the data to convert what would otherwise just be shapes on a flat plane into a window to the condition of our world. As such, many art and design techniques are vital to consider. 
           </p>
-          </p>
+          <p>
             To the side is the result of my final project for one of my cartography courses. It and other more visually-aligned GIS results can be seen in more detail and context in some of the repositories below. As the maps are rather large and often detailed, seeing them in the full PDF files works more smoothly than shrinking them down to embed here. 
           </p>
           <ul class="actions">
@@ -50,31 +50,31 @@ nav-menu: true
             Besides the direct lead-in from aerial photography and related techniques, regular digital photography has also been a minor interest of mine stretching back many years. After acquiring a more consistently usable camera several months ago, I've been dedicating time between other lessons to get more of an understanding of composition and image adjustment. Some recent examples are below, as well as elsewhere on the site. 
           </p>
         </div>
-        <ul class="actions">
-          <li><img src="{% link assets/images/night.jpg %}" alt="" data-position="top center" width="480" height="240" /></li>
-          <li><img src="{% link assets/images/FallLeaves.jpg %}" alt="" data-position="top center" width="480" height="240" /></li>
-          <li><img src="{% link assets/images/Mushroom.jpg %}" alt="" data-position="top center" width="480" height="240" /></li>
-        </ul>
+        <div style="display: inline-block;">
+          <img src="{% link assets/images/night.jpg %}" alt="" data-position="top center" width="480" height="240" />
+          <img src="{% link assets/images/FallLeaves.jpg %}" alt="" data-position="top center" width="480" height="240" />
+          <img src="{% link assets/images/Mushroom.jpg %}" alt="" data-position="top center" width="480" height="240" />
+        </div>
       </div>
     </section>
     
     <section id="draw">
-        <img src="{% link assets/images/BricksFinalB.jpg %}" alt="" data-position="top center" width="860" height="380" />
+        <img src="{% link assets/images/BricksFinalA.jpg %}" alt="" data-position="top center" width="860" height="380" />
       <div class="content">
         <div class="inner">
         <header class="major">
           <h3>Traditional Art</h3>
         </header>
         <p>
-          In an effort to approach design from a different angle than my major was focused on, I took up some traditional 2D art courses after graduation to diversify and round out my understanding of visual mediums. Aside from the basic techniques for graphite & colored pencils, I found that there was substantial crossover from my main field of study in terms of approach. Estimations of height and depth of geographical features leads right in to perspective & 3D construction on a 2D plane. Azimuth and hillshade calculations translate to the shaping and intensity of shadows and highlights. The approaches of visual analysis and visual art are very similar, simply with one being descriptive and the other being prescriptive. By understanding the mechanics of how existing things look, one is more able to determine how something is ought to look during creation. Despite my very limited art supplies, unsteady hands, and limited scanning equipment, I believe these studies are able to demonstrate the crossover in my understanding from analysis to implementation. 
+          In an effort to approach design from a different angle than my major was focused on, I took up some traditional 2D art courses after graduation to diversify and round out my understanding of visual mediums. Aside from the basic techniques for graphite & colored pencils, I found that there was substantial crossover from my main field of study in terms of approach. Estimations of height and depth of geographical features leads right in to perspective & 3D construction on a 2D plane. Azimuth and hillshade calculations translate to the shaping and intensity of shadows and highlights. The approaches of visual analysis and visual art are very similar, simply with one being descriptive and the other being prescriptive. By understanding the mechanics of how existing things look, one is more able to determine how something is ought to look during creation. Despite my very basic art supplies, unsteady hands, and limited scanning equipment, I believe these studies are able to demonstrate the crossover in my understanding from analysis to implementation. 
         </p>
         </div>
-        <ul class="actions">
-          <li><img src="{% link assets/images/BrickBlocking.jpg %}" alt="" data-position="top center" width="480" height="240" /></li>
-          <li><img src="{% link assets/images/BrickShading.jpg %}" alt="" data-position="top center" width="480" height="240" /></li>
-          <li><img src="{% link assets/images/Persim.jpg %}" alt="" data-position="top center" width="480" height="240" /></li>
-          <li><img src="{% link assets/images/PersimNotes.jpg %}" alt="" data-position="top center" width="480" height="240" /></li>
-        </ul>
+        <div style="display: inline-block;">
+          <img src="{% link assets/images/BrickBlocking.jpg %}" alt="" data-position="top center" width="480" height="240" />
+          <img src="{% link assets/images/BrickShading.jpg %}" alt="" data-position="top center" width="480" height="240" />
+          <img src="{% link assets/images/Persim.jpg %}" alt="" data-position="top center" width="480" height="240" />
+          <img src="{% link assets/images/PersimNotes.jpg %}" alt="" data-position="top center" width="480" height="240" />
+        </div>
       </div>
     </section>
   
