@@ -1,0 +1,42 @@
+# site settings
+title: A. Hayes Portfolio
+email: asarhayes@gmail.com
+description: A showcase of technical & artistic work by Asa Hayes 
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author: A. Hayes
+#street_address: 
+city: College Station 
+state: TX
+#zip_code: 
+#country: 
+phone: Further contact info. available on request  
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/a-hayes
+  #GitLab:
+  #Instagram:
+  LinkedIn: https://www.linkedin.com/in/asa-hayes/
+  #Twitter: 
+  #Facebook:
+  #Slack:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
