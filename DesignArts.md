@@ -53,11 +53,11 @@ nav-menu: true
       </div>
     </section>
     
-    <section id="photogal">
-      <p float="center">
-            <img valign="bottom" src="{% link assets/images/night.jpg %}" alt="" data-position="top center" width="32%" /> 
-            <img valign="middle" src="{% link assets/images/FallLeaves.jpg %}" alt="" data-position="top center" width="32%" /> 
-            <img valign="middle" src="{% link assets/images/Mushroom.jpg %}" alt="" data-position="top center" width="32%" />
+    <section id="photogal" style="display:inline-block;">
+      <p style="margin: 0 auto; ">
+            <img valign="bottom" src="{% link assets/images/night.jpg %}" alt="" data-position="top center" width="28%" /> 
+            <img valign="middle" src="{% link assets/images/FallLeaves.jpg %}" alt="" data-position="top center" width="34%" /> 
+            <img valign="middle" src="{% link assets/images/Mushroom.jpg %}" alt="" data-position="top center" width="34%" />
           </p>
     </section>
     
@@ -87,8 +87,8 @@ nav-menu: true
     
     <section id="drawgal2">
       <p float="center">
-        <img valign="middle" src="{% link assets/images/Persim.jpg %}" alt="" data-position="top center" width="74%" /> 
-        <img valign="middle" src="{% link assets/images/PersimNotes.jpg %}" alt="" data-position="top center" width="24%" />
+        <img valign="middle" src="{% link assets/images/Persim.jpg %}" alt="" data-position="top center" width="68%" /> 
+        <img valign="middle" src="{% link assets/images/PersimNotes.jpg %}" alt="" data-position="top center" width="28%" />
       </p>
     </section>
   
