@@ -60,7 +60,7 @@ nav-menu: true
     
     <section id="photogal">
       <p float="left">
-            <img align="top" src="{% link assets/images/night.jpg %}" alt="" data-position="top center" width="32% /> 
+            <img align="top" src="{% link assets/images/night.jpg %}" alt="" data-position="top center" width="32%" /> 
             <img align="top" src="{% link assets/images/FallLeaves.jpg %}" alt="" data-position="top center" width="32%" /> 
             <img align="top" src="{% link assets/images/Mushroom.jpg %}" alt="" data-position="top center" width="32%" />
           </p>
@@ -91,10 +91,10 @@ nav-menu: true
     
     <section id="drawgal">
       <p float="left">
-        <img align="top" src="{% link assets/images/BrickBlocking.jpg %}" alt="" data-position="top center" width="480" height="240" /> 
-        <img align="top" src="{% link assets/images/BrickShading.jpg %}" alt="" data-position="top center" width="480" height="240" /> 
-        <img align="top" src="{% link assets/images/Persim.jpg %}" alt="" data-position="top center" width="480" height="240" /> 
-        <img align="top" src="{% link assets/images/PersimNotes.jpg %}" alt="" data-position="top center" width="480" height="240" />
+        <img align="top" src="{% link assets/images/BrickBlocking.jpg %}" alt="" data-position="top center" width="24%" /> 
+        <img align="top" src="{% link assets/images/BrickShading.jpg %}" alt="" data-position="top center" width="24%" /> 
+        <img align="top" src="{% link assets/images/Persim.jpg %}" alt="" data-position="top center" width="24%" /> 
+        <img align="top" src="{% link assets/images/PersimNotes.jpg %}" alt="" data-position="top center" width="24%" />
       </p>
     </section>
   
