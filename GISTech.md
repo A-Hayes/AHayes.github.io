@@ -2,7 +2,7 @@
 layout: post
 title: GIS and Technology
 description: A selection of GIS and Coding projects done both as part of coursework or otherwise.
-image: assets/images/GISTech.png
+image: assets/images/GISCode.png
 nav-menu: true
 ---
 
