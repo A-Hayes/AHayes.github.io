@@ -6,6 +6,13 @@ image: assets/images/GISCode.png
 nav-menu: true
 ---
 
+<style>
+	img {
+    max-width: 100%;
+    object-fit: contain;
+	}
+</style>
+
 <div id="main">
 
   <section id="items" class="spotlights">

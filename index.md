@@ -8,6 +8,12 @@ author: null
 show_tile: false
 ---
 
+<style>
+	img {
+    max-width: 100%;
+    object-fit: contain;
+	}
+</style>
 
 <!-- Main -->
 <div id="main">
