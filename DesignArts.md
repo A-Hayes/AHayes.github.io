@@ -49,20 +49,15 @@ nav-menu: true
           <p>
             Besides the direct lead-in from aerial photography and related techniques, regular digital photography has also been a minor interest of mine stretching back many years. After acquiring a more consistently usable camera several months ago, I've been dedicating time between other lessons to get more of an understanding of composition and image adjustment. Some recent examples are below, as well as elsewhere on the site. 
           </p>
-          <p float="left">
-            <img align="top" src="{% link assets/images/night.jpg %}" alt="" data-position="top center" width="480" height="240" /> 
-            <img align="top" src="{% link assets/images/FallLeaves.jpg %}" alt="" data-position="top center" width="480" height="240" /> 
-            <img align="top" src="{% link assets/images/Mushroom.jpg %}" alt="" data-position="top center" width="480" height="240" />
-          </p>
         </div>
       </div>
     </section>
     
     <section id="photogal">
-      <p float="left">
-            <img align="center" src="{% link assets/images/night.jpg %}" alt="" data-position="top center" width="32%" /> 
-            <img align="center" src="{% link assets/images/FallLeaves.jpg %}" alt="" data-position="top center" width="32%" /> 
-            <img align="center" src="{% link assets/images/Mushroom.jpg %}" alt="" data-position="top center" width="32%" />
+      <p float="center">
+            <img valign="bottom" src="{% link assets/images/night.jpg %}" alt="" data-position="top center" width="32%" /> 
+            <img valign="middle" src="{% link assets/images/FallLeaves.jpg %}" alt="" data-position="top center" width="32%" /> 
+            <img valign="middle" src="{% link assets/images/Mushroom.jpg %}" alt="" data-position="top center" width="32%" />
           </p>
     </section>
     
@@ -83,14 +78,17 @@ nav-menu: true
       </div>
     </section>
     
-    <section id="drawgal">
-      <p float="left">
-        <img align="center" src="{% link assets/images/BrickBlocking.jpg %}" alt="" data-position="top center" width="48%" /> 
-        <img align="center" src="{% link assets/images/BrickShading.jpg %}" alt="" data-position="top center" width="48%" /> 
+    <section id="drawgal1">
+      <p float="center">
+        <img valign="middle" src="{% link assets/images/BrickBlocking.jpg %}" alt="" data-position="top center" width="48%" /> 
+        <img valign="middle" src="{% link assets/images/BrickShading.jpg %}" alt="" data-position="top center" width="48%" /> 
       </p>
-      <p float="left">
-        <img align="center" src="{% link assets/images/Persim.jpg %}" alt="" data-position="top center" width="48%" /> 
-        <img align="center" src="{% link assets/images/PersimNotes.jpg %}" alt="" data-position="top center" width="48%" />
+    </section>
+    
+    <section id="drawgal2">
+      <p float="center">
+        <img valign="middle" src="{% link assets/images/Persim.jpg %}" alt="" data-position="top center" width="74%" /> 
+        <img valign="middle" src="{% link assets/images/PersimNotes.jpg %}" alt="" data-position="top center" width="24%" />
       </p>
     </section>
   
