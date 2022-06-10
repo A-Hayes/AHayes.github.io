@@ -40,7 +40,7 @@ nav-menu: true
     </section>
     
     <section id="photo">
-      <img src="{% link assets/images/BricksPhoto.jpg %}" alt="" data-position="top center" width="870" height="390" />
+      <img src="{% link assets/images/BricksPhoto.jpg %}" alt="" data-position="top center" width="880" height="400" />
       <div class="content">
         <div class="inner">
           <header class="major">
@@ -53,19 +53,19 @@ nav-menu: true
       </div>
     </section>
     
-    <section id="photogal" style="display:inline-block;">
+    <section id="photogal">
       <div class="box alt">
         <div class="row 100% uniform">
-          <img valign="bottom" src="{% link assets/images/night.jpg %}" alt="" data-position="top center" width="22%" /> 
-          <img valign="middle" src="{% link assets/images/FallLeaves.jpg %}" alt="" data-position="top center" width="37%" /> 
-          <img valign="middle" src="{% link assets/images/Mushroom.jpg %}" alt="" data-position="top center" width="37%" />
+          <img valign="bottom" src="{% link assets/images/night.jpg %}" alt="" data-position="center center" /> 
+          <img valign="middle" src="{% link assets/images/FallLeaves.jpg %}" alt="" data-position="center center" /> 
+          <img valign="middle" src="{% link assets/images/Mushroom.jpg %}" alt="" data-position="center center" />
         </div>
       </div>
     </section>
       
     
     <section id="draw">
-        <img src="{% link assets/images/BricksFinalA.jpg %}" alt="" data-position="top center" width="860" height="380" />
+        <img src="{% link assets/images/BricksFinalA.jpg %}" alt="" data-position="top center" width="880" height="400" />
       <div class="content">
         <div class="inner">
         <header class="major">
@@ -82,16 +82,18 @@ nav-menu: true
     </section>
     
     <section id="drawgal1">
-      <p float="center">
-        <img valign="middle" src="{% link assets/images/BrickBlocking.jpg %}" alt="" data-position="top center" width="48%" /> 
-        <img valign="middle" src="{% link assets/images/BrickShading.jpg %}" alt="" data-position="top center" width="48%" /> 
-      </p>
+      <div class="box alt">
+        <div class="row 100% uniform">
+          <img valign="middle" src="{% link assets/images/BrickBlocking.jpg %}" alt="" data-position="top center" /> 
+          <img valign="middle" src="{% link assets/images/BrickShading.jpg %}" alt="" data-position="top center" /> 
+        </div>
+      </div>
     </section>
     
     <section id="drawgal2">
       <p float="center">
-        <img valign="middle" src="{% link assets/images/Persim.jpg %}" alt="" data-position="top center" width="67%" /> 
-        <img valign="middle" src="{% link assets/images/PersimNotes.jpg %}" alt="" data-position="top center" width="29%" />
+        <img valign="middle" src="{% link assets/images/Persim.jpg %}" alt="" data-position="top center" width="70%" /> 
+        <img valign="middle" src="{% link assets/images/PersimNotes.jpg %}" alt="" data-position="top center" width="30%" />
       </p>
     </section>
   
