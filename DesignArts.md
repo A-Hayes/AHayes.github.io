@@ -60,9 +60,9 @@ nav-menu: true
     
     <section id="photogal">
       <p float="left">
-            <img align="top" src="{% link assets/images/night.jpg %}" alt="" data-position="top center" width="480" height="240" /> 
-            <img align="top" src="{% link assets/images/FallLeaves.jpg %}" alt="" data-position="top center" width="480" height="240" /> 
-            <img align="top" src="{% link assets/images/Mushroom.jpg %}" alt="" data-position="top center" width="480" height="240" />
+            <img align="top" src="{% link assets/images/night.jpg %}" alt="" data-position="top center" width="32% /> 
+            <img align="top" src="{% link assets/images/FallLeaves.jpg %}" alt="" data-position="top center" width="32%" /> 
+            <img align="top" src="{% link assets/images/Mushroom.jpg %}" alt="" data-position="top center" width="32%" />
           </p>
     </section>
     
@@ -80,10 +80,10 @@ nav-menu: true
           Azimuth and hillshade calculations translate to the shaping and intensity of shadows and highlights. The approaches of visual analysis and visual art are very similar, simply with one being descriptive and the other being prescriptive. By understanding the mechanics of how existing things look, one is more able to determine how something is ought to look during creation. Despite my very basic art supplies, unsteady hands, and limited scanning equipment, I believe these studies are able to demonstrate the crossover in my understanding from analysis to implementation. 
         </p>
         <p float="left">
-          <img align="top" src="{% link assets/images/BrickBlocking.jpg %}" alt="" data-position="top center" width="480" height="240" /> 
-          <img align="top" src="{% link assets/images/BrickShading.jpg %}" alt="" data-position="top center" width="480" height="240" /> 
-          <img align="top" src="{% link assets/images/Persim.jpg %}" alt="" data-position="top center" width="480" height="240" /> 
-          <img align="top" src="{% link assets/images/PersimNotes.jpg %}" alt="" data-position="top center" width="480" height="240" />
+          <img align="top" src="{% link assets/images/BrickBlocking.jpg %}" alt="" data-position="top center" width="24%" /> 
+          <img align="top" src="{% link assets/images/BrickShading.jpg %}" alt="" data-position="top center" width="24%" /> 
+          <img align="top" src="{% link assets/images/Persim.jpg %}" alt="" data-position="top center" width=="24%" /> 
+          <img align="top" src="{% link assets/images/PersimNotes.jpg %}" alt="" data-position="top center" width="24%" />
         </p>
         </div>
       </div>
