@@ -40,7 +40,7 @@ nav-menu: true
     </section>
     
     <section id="photo">
-      <img src="{% link assets/images/BricksPhoto.jpg %}" alt="" data-position="top center" width="880" height="400" />
+      <img src="{% link assets/images/BricksPhoto.jpg %}" alt="" data-position="top center" width="870" height="390" />
       <div class="content">
         <div class="inner">
           <header class="major">
@@ -53,19 +53,19 @@ nav-menu: true
       </div>
     </section>
     
-    <section id="photogal">
+    <section id="photogal" style="display:inline-block;">
       <div class="box alt">
         <div class="row 100% uniform">
-          <img valign="bottom" src="{% link assets/images/night.jpg %}" alt="" data-position="center center" /> 
-          <img valign="middle" src="{% link assets/images/FallLeaves.jpg %}" alt="" data-position="center center" /> 
-          <img valign="middle" src="{% link assets/images/Mushroom.jpg %}" alt="" data-position="center center" />
+          <img valign="bottom" src="{% link assets/images/night.jpg %}" alt="" data-position="top center" width="22%" /> 
+          <img valign="middle" src="{% link assets/images/FallLeaves.jpg %}" alt="" data-position="top center" width="37%" /> 
+          <img valign="middle" src="{% link assets/images/Mushroom.jpg %}" alt="" data-position="top center" width="37%" />
         </div>
       </div>
     </section>
       
     
     <section id="draw">
-        <img src="{% link assets/images/BricksFinalA.jpg %}" alt="" data-position="top center" width="880" height="400" />
+        <img src="{% link assets/images/BricksFinalA.jpg %}" alt="" data-position="top center" width="860" height="380" />
       <div class="content">
         <div class="inner">
         <header class="major">
@@ -75,7 +75,7 @@ nav-menu: true
           In an effort to approach design from a different angle than my major was focused on, I took up some traditional 2D art courses after graduation to diversify and round out my understanding of visual mediums. Aside from the basic techniques for graphite & colored pencils, I found that there was substantial crossover from my main field of study in terms of approach. Estimations of height and depth of geographical features leads right in to perspective & 3D construction on a 2D plane. 
         </p>
         <p>
-          Azimuth and hillshade calculations translate to the shaping and intensity of shadows and highlights. The approaches of visual analysis and visual art are very similar, simply with one being descriptive and the other being prescriptive. By understanding the mechanics of how existing things look, one is more able to determine how something is ought to look during creation. Despite my very basic art supplies, unsteady hands, and limited scanning equipment, I believe these studies are able to demonstrate the crossover in my understanding from analysis to implementation. 
+          Azimuth and hillshade calculations translate to the shaping and intensity of shadows and highlights. The approaches of visual analysis and visual art are very similar, simply with one being descriptive and the other being prescriptive. By understanding the mechanics of how existing things look, one is more able to determine how something is ought to look during creation. Despite my very basic art supplies, unsteady hands, and limited scanning equipment, I believe these studies in graphite and colored pencil are able to demonstrate the crossover in my understanding from analysis to implementation. 
         </p>
         </div>
       </div>
@@ -84,16 +84,16 @@ nav-menu: true
     <section id="drawgal1">
       <div class="box alt">
         <div class="row 100% uniform">
-          <img valign="middle" src="{% link assets/images/BrickBlocking.jpg %}" alt="" data-position="top center" /> 
-          <img valign="middle" src="{% link assets/images/BrickShading.jpg %}" alt="" data-position="top center" /> 
+          <img valign="middle" src="{% link assets/images/BrickBlocking.jpg %}" alt="" data-position="top center" width="48%" /> 
+          <img valign="middle" src="{% link assets/images/BrickShading.jpg %}" alt="" data-position="top center" width="48%" />
         </div>
       </div>
     </section>
     
     <section id="drawgal2">
       <p float="center">
-        <img valign="middle" src="{% link assets/images/Persim.jpg %}" alt="" data-position="top center" width="70%" /> 
-        <img valign="middle" src="{% link assets/images/PersimNotes.jpg %}" alt="" data-position="top center" width="30%" />
+        <img valign="middle" src="{% link assets/images/Persim.jpg %}" alt="" data-position="top center" width="69%" /> 
+        <img valign="middle" src="{% link assets/images/PersimNotes.jpg %}" alt="" data-position="top center" width="29%" />
       </p>
     </section>
   
