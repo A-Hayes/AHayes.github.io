@@ -10,7 +10,7 @@ city: College Station
 state: TX
 #zip_code: 
 #country: 
-phone: Further contact info. available on request 
+phone: Further contact info. available on request  
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
