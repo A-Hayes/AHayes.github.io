@@ -54,12 +54,15 @@ nav-menu: true
     </section>
     
     <section id="photogal" style="display:inline-block;">
-      <p style="margin: 0 auto; ">
-            <img valign="bottom" src="{% link assets/images/night.jpg %}" alt="" data-position="top center" width="22%" /> 
-            <img valign="middle" src="{% link assets/images/FallLeaves.jpg %}" alt="" data-position="top center" width="37%" /> 
-            <img valign="middle" src="{% link assets/images/Mushroom.jpg %}" alt="" data-position="top center" width="37%" />
-          </p>
+      <div class="box alt">
+        <div class="row 100% uniform">
+          <img valign="bottom" src="{% link assets/images/night.jpg %}" alt="" data-position="top center" width="22%" /> 
+          <img valign="middle" src="{% link assets/images/FallLeaves.jpg %}" alt="" data-position="top center" width="37%" /> 
+          <img valign="middle" src="{% link assets/images/Mushroom.jpg %}" alt="" data-position="top center" width="37%" />
+        </div>
+      </div>
     </section>
+      
     
     <section id="draw">
         <img src="{% link assets/images/BricksFinalA.jpg %}" alt="" data-position="top center" width="860" height="380" />
