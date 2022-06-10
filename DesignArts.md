@@ -18,7 +18,7 @@ nav-menu: true
   <section id="items" class="spotlights">
   
     <section id="map">
-        <img src="{% link assets/images/DesertPopMap.png %}" alt="" data-position="top center" />
+        <img src="{% link assets/images/DesertPopMap.png %}" alt="" data-position="top center" width="480" height="240" />
       <div class="content">
         <div class="inner">
         <header class="major">
@@ -51,15 +51,15 @@ nav-menu: true
         </p>
         </div>
         <div>
-          <img src="{% link assets/images/night.jpg %}" alt="" data-position="top center" />
-          <img src="{% link assets/images/FallLeaves.jpg %}" alt="" data-position="top center" />
-          <img src="{% link assets/images/Mushroom.jpg %}" alt="" data-position="top center" />
+          <img src="{% link assets/images/night.jpg %}" alt="" data-position="top center" width="480" height="240" />
+          <img src="{% link assets/images/FallLeaves.jpg %}" alt="" data-position="top center" width="480" height="240" />
+          <img src="{% link assets/images/Mushroom.jpg %}" alt="" data-position="top center" width="480" height="240" />
         </div>
       </div>
     </section>
     
     <section id="draw">
-        <img src="{% link assets/images/BricksFinalB.jpg %}" alt="" data-position="top center" />
+        <img src="{% link assets/images/BricksFinalB.jpg %}" alt="" data-position="top center" width="480" height="240" />
       <div class="content">
         <div class="inner">
         <header class="major">
@@ -70,10 +70,10 @@ nav-menu: true
         </p>
         </div>
         <div>
-          <img src="{% link assets/images/BrickBlocking.jpg %}" alt="" data-position="top center" />
-          <img src="{% link assets/images/BrickShading.jpg %}" alt="" data-position="top center" />
-          <img src="{% link assets/images/Persim.jpg %}" alt="" data-position="top center" />
-          <img src="{% link assets/images/PersimNotes.jpg %}" alt="" data-position="top center" />
+          <img src="{% link assets/images/BrickBlocking.jpg %}" alt="" data-position="top center" width="480" height="240" />
+          <img src="{% link assets/images/BrickShading.jpg %}" alt="" data-position="top center" width="480" height="240" />
+          <img src="{% link assets/images/Persim.jpg %}" alt="" data-position="top center" width="480" height="240" />
+          <img src="{% link assets/images/PersimNotes.jpg %}" alt="" data-position="top center" width="480" height="240" />
         </div>
       </div>
     </section>
