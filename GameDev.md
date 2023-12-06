@@ -31,6 +31,8 @@ nav-menu: true
 
 		Inti was created by our team as the main project for VIST-480: Game Level Design at Texas A&M, where we were tasked with each designing a level for a combined cohesive game. My role (besides level design) was managing the technical aspects of the project (i.e. troubleshooting, building/packaging, Git management, etc.) along with mechanical development for movement and blueprints. 
 		
+		My level was heavily changed and iterated upon over the course of development, but the main constant remained for how I wanted to approach the design. My intent was to lay out the level and the goals along it (the three moonbeam emitters, the relic, and the exit to the temple) to where they would be hidden by verticality and obstacles, but with sufficient enough natural urging by visual and geographic elements to guide the player naturally to them. In doing so, the player is able to more strongly feel a sense of discovery and exploration than an otherwise simple path from point A to B to C. The 'intended' critical path is mostly linear, but affords the player opportunities to exercise the concepts and navigational/mechanical knowledge gained from completing earlier levels, even with the relatively simple implementations of those concepts as scaled to the scope of our project. 
+		
 		The Itch.io page linked below has a link to download Inti, along with more screenshots. 
 
 		Project/Tech Mgmt, Lead Mech. Dev, 3rd Level: Asa Hayes
