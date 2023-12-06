@@ -45,7 +45,7 @@ show_tile: false
 					A selection of GIS and Coding projects done both as part of coursework or otherwise. More examples are available in <a href="https://github.com/A-Hayes">the main repository here.</a>
 				</p>
 				<ul class="actions">
-					<li><a href="GISTech.html" class="button">Explore</a></li>
+					<li><a href="GISTech.html" class="button">GIS</a></li>
 				</ul>
 			</div>
 		</div>
@@ -64,11 +64,31 @@ show_tile: false
 					Visual art samples for design, drawing, and photography; discussions on experience in other mediums.
 				</p>
 				<ul class="actions">
-					<li><a href="DesignArts.html" class="button">Explore</a></li>
+					<li><a href="DesignArts.html" class="button">Design & Art</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
+	
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/GameDev_Cave.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Game Design & Development</h3>
+				</header>
+				<p>
+					Demos & prototypes of games made for both coursework and personal projects.  
+				</p>
+				<ul class="actions">
+					<li><a href="GameDev.html" class="button">Game Dev.</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	
 	<!-- <section   Use as templates for any new sections later
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
