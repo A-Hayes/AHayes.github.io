@@ -39,9 +39,9 @@ nav-menu: true
 		The Itch.io page linked below has a link to download Inti, along with more screenshots. 
 		</p>
 		<p>
-		Project/Tech Mgmt, Lead Mech. Dev, 3rd Level: Asa Hayes
-		3D & Env. Artist, Mech. Dev., 2nd Level: Hope Poulter
-		3D & Env. Artist, Mech. Dev., 1st Level: Rhiannon Duba
+		Project/Tech Mgmt, Lead Mech. Dev, 3rd Level: Asa Hayes <br>
+		3D & Env. Artist, Mech. Dev., 2nd Level: Hope Poulter <br>
+		3D & Env. Artist, Mech. Dev., 1st Level: Rhiannon Duba <br>
 		3D & Env. Artist, Mech. Dev., 4th Level: Samantha Braswell
         </p>
         <ul class="actions">
