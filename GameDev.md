@@ -19,7 +19,7 @@ nav-menu: true
   
     <section id="inti">
       <a href="generic.html" class="image">
-        <img src="{% link assets/images/GameDevCave_2.jpg %}" alt="" data-position="top center" />
+        <img src="{% link assets/images/GameDevCave_2.png %}" alt="" data-position="top center" />
       </a>
       <div class="content">
         <div class="inner">
