@@ -16,7 +16,7 @@ nav-menu: true
 			<h2>About</h2>
 		</header>
 		<p>
-			Asa Hayes is a recent graduate of Texas A&M University. While focusing on Geographic Information Science and Technology for major studies along with a Computer Science minor, he has worked to create a wide base of experience in several technical and artistic areas. By doing so, he hopes to find new perspectives and solutions for each and reduce crosstalk and confusion between these fields, as he believes that they are more deeply tied than many people in either field usually notice. 
+			Asa Hayes is currently a graduate student at Texas A&M University, under the M.S. in Vizualization program. Starting with a B.S. in Geographic Information Science and Technology for major studies along with a Computer Science minor, he has worked to create a wide base of experience in several technical and artistic areas. By doing so, he hopes to find new perspectives and solutions for each and reduce crosstalk and confusion between these fields, as he believes that they are more deeply tied than many people in either sometimes notice. 
 		</p>
 	</div>
 </section>
@@ -73,7 +73,7 @@ nav-menu: true
 			<h2>Future Interests</h2>
 		</header>
 		<p>
-			While taking a semester off to align himself with admission cycles, Asa has been working on enhancing readiness for admittance into the Master of Science in Visualization program at Texas A&M University. This has largely been focused on the development of more directly tangible applied concepts in art and design via independant study. He intends to use his time in the program both to enrich the Dept. of Visualization as possible during its transition into the new College of Arts & Sciences, and to explore the concept of 'usability': achieving a balance of intuitive interaction and comprehensive functionality in interfaces (digital and not). More specific interest falls on the examination of failures in User Experience design to understand how and why elements/techniques <i>do not</i> work to complement those that do.
+			Aside from continuing & finishing the current program, Asa's interests towards future efforts are varied. His current main focus is on a capstone project, oriented towards game design with efforts towards creating a game demo, which will likely carry over into trying to enter the game development industry. Additional options are towards the GIS field, or even some combination of GIS & games. 
 		</p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
